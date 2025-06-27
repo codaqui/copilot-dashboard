@@ -1,4 +1,4 @@
-sh# GitHub Copilot Analytics
+# GitHub Copilot Analytics
 
 An open-source tool to collect, process, and visualize GitHub Copilot usage data for any organization. Features a web-based dashboard for interactive analytics and supports data privacy by keeping all data local.
 
