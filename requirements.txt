@@ -1,0 +1,12 @@
+# Python dependencies for GitHub Copilot Analytics
+# 
+# System dependencies (install separately):
+# - GitHub CLI (gh): https://cli.github.com/
+# - jq: https://stedolan.github.io/jq/
+
+requests
+pandas
+streamlit
+plotly
+python-dotenv
+pyarrow
