@@ -5,6 +5,7 @@ data.csv
 *.parquet
 *.csv
 raw_response_*.json
+!output_example/data.parquet
 
 # Created by https://www.toptal.com/developers/gitignore/api/python
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
