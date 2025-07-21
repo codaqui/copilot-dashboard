@@ -1,0 +1,171 @@
+{
+  "date": "2025-06-22",
+  "copilot_ide_chat": {
+    "editors": [
+      {
+        "name": "vscode",
+        "models": [
+          {
+            "name": "default",
+            "total_chats": 41,
+            "is_custom_model": false,
+            "total_engaged_users": 8,
+            "total_chat_copy_events": 5,
+            "total_chat_insertion_events": 1
+          }
+        ],
+        "total_engaged_users": 8
+      },
+      {
+        "name": "JetBrains",
+        "models": [
+          {
+            "name": "default",
+            "total_chats": 15,
+            "is_custom_model": false,
+            "total_engaged_users": 3,
+            "total_chat_copy_events": 4,
+            "total_chat_insertion_events": 3
+          }
+        ],
+        "total_engaged_users": 3
+      }
+    ],
+    "total_engaged_users": 11
+  },
+  "total_active_users": 18,
+  "copilot_dotcom_chat": {
+    "models": [
+      {
+        "name": "default",
+        "total_chats": 3,
+        "is_custom_model": false,
+        "total_engaged_users": 2
+      }
+    ],
+    "total_engaged_users": 2
+  },
+  "total_engaged_users": 13,
+  "copilot_dotcom_pull_requests": {
+    "total_engaged_users": 1
+  },
+  "copilot_ide_code_completions": {
+    "editors": [
+      {
+        "name": "vscode",
+        "models": [
+          {
+            "name": "default",
+            "languages": [
+              {
+                "name": "python",
+                "total_engaged_users": 5,
+                "total_code_acceptances": 133,
+                "total_code_suggestions": 412,
+                "total_code_lines_accepted": 164,
+                "total_code_lines_suggested": 639
+              },
+              {
+                "name": "javascript",
+                "total_engaged_users": 3,
+                "total_code_acceptances": 82,
+                "total_code_suggestions": 237,
+                "total_code_lines_accepted": 92,
+                "total_code_lines_suggested": 360
+              },
+              {
+                "name": "typescript",
+                "total_engaged_users": 4,
+                "total_code_acceptances": 103,
+                "total_code_suggestions": 309,
+                "total_code_lines_accepted": 123,
+                "total_code_lines_suggested": 463
+              },
+              {
+                "name": "yaml",
+                "total_engaged_users": 2,
+                "total_code_acceptances": 18,
+                "total_code_suggestions": 56,
+                "total_code_lines_accepted": 30,
+                "total_code_lines_suggested": 103
+              },
+              {
+                "name": "markdown",
+                "total_engaged_users": 2,
+                "total_code_acceptances": 10,
+                "total_code_suggestions": 30,
+                "total_code_lines_accepted": 15,
+                "total_code_lines_suggested": 46
+              }
+            ],
+            "is_custom_model": false,
+            "total_engaged_users": 8
+          }
+        ],
+        "total_engaged_users": 8
+      },
+      {
+        "name": "JetBrains",
+        "models": [
+          {
+            "name": "default",
+            "languages": [
+              {
+                "name": "java",
+                "total_engaged_users": 2,
+                "total_code_acceptances": 51,
+                "total_code_suggestions": 144,
+                "total_code_lines_accepted": 72,
+                "total_code_lines_suggested": 206
+              },
+              {
+                "name": "kotlin",
+                "total_engaged_users": 1,
+                "total_code_acceptances": 25,
+                "total_code_suggestions": 72,
+                "total_code_lines_accepted": 41,
+                "total_code_lines_suggested": 108
+              }
+            ],
+            "is_custom_model": false,
+            "total_engaged_users": 3
+          }
+        ],
+        "total_engaged_users": 3
+      }
+    ],
+    "languages": [
+      {
+        "name": "python",
+        "total_engaged_users": 5
+      },
+      {
+        "name": "javascript",
+        "total_engaged_users": 3
+      },
+      {
+        "name": "typescript",
+        "total_engaged_users": 4
+      },
+      {
+        "name": "java",
+        "total_engaged_users": 2
+      },
+      {
+        "name": "kotlin",
+        "total_engaged_users": 1
+      },
+      {
+        "name": "yaml",
+        "total_engaged_users": 2
+      },
+      {
+        "name": "markdown",
+        "total_engaged_users": 2
+      }
+    ],
+    "total_engaged_users": 11
+  },
+  "organization": "codaqui",
+  "download_timestamp": "2025-07-21T10:30:00-03:00"
+}
